@@ -1,0 +1,8 @@
+.DS_Store
+log/*
+!log/.exists
+tmp/sockets/*
+tmp/pids/*
+!tmp/sockets/.exists
+!tmp/pids/.exists
+node_modules/*
